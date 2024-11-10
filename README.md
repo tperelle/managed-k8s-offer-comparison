@@ -27,6 +27,7 @@ other services in the same cloud provider. Here is the infrastructure used for t
 - [OVHCloud](https://www.ovhcloud.com/fr/)
 - [Scaleway](https://www.scaleway.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
+- [Civo Cloud](https://www.civo.com/)
 
 ## Comparison
 
@@ -38,6 +39,7 @@ other services in the same cloud provider. Here is the infrastructure used for t
 | OVHCloud       | Managed Kubernetes - 2vCPUs, 8GiB RAM<br/>34€/mo | PostgreSQL - 2vCPUs, 4GiB RAM, 80Go <br/>49,5€/mo | 10€/mo        | 93,5€/mo   |
 | Scaleway       | Kapsule - 2vCPUs, 8GiB RAM<br/>33€/mo            | PostgreSQL - 1vCPU, 2GiB RAM, 10Go <br/>18€/mo    | 14,60€/mo     | 65,6€/mo   |
 | Digital Ocean  | Kubernetes - 4vCPUs, 8GiB RAM<br/>48$/mo         | PostgreSQL - 1vCPU, 1GiB RAM, 10 Go <br/>15$/mo   | 12$/mo        | 75$/mo     |
+| Civo Cloud     | Kubernetes - 4vCPUs, 8GiB RAM<br/>43,45$/mo      | PostgreSQL - 1vCPU, 2GiB RAM, 20Go <br/>21,73$/mo | 10,86$/mo     | 76$/mo     |
 
 ## Limits
 
