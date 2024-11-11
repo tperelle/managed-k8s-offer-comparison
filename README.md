@@ -38,14 +38,14 @@ load balancers and databases. Here is the infrastructure template used for the c
 
 | Cloud Provider | Managed Kubernetes                               | Postgres Database                                                  | Load Balancer | Total Cost       |
 |----------------|--------------------------------------------------|--------------------------------------------------------------------|---------------|------------------|
+| Azure          | AKS - 2vCPUs, 8GiB RAM<br/>160$/mo               | Azure Database for PostgreSQL - 2vCPUs, 4GiB RAM, 20Go <br/>43$/mo | 21$/mo        | <b>224$/mo</b>   |
 | Google Cloud   | GKE - 2vCPUs, 7,5GiB RAM<br/>150$/mo             | Cloud SQL - 1vCPU, 0,6GiB RAM, 40Go <br/>15$/mo                    | 19$/mo        | <b>184$/mo</b>   |
 | AWS            | EKS - 1vCPU, 8GiB RAM<br/>114$/mo                | RDS PostgreSQL - 1vCPU, 1,7GiB RAM, 20Go <br/>47$/mo               | 18$/mo        | <b>179$/mo</b>   |
-| Azure          | AKS - 2vCPUs, 8GiB RAM<br/>160$/mo               | Azure Database for PostgreSQL - 2vCPUs, 4GiB RAM, 20Go <br/>43$/mo | 21$/mo        | <b>224$/mo</b>   |
-| OVHCloud       | Managed Kubernetes - 2vCPUs, 8GiB RAM<br/>34€/mo | PostgreSQL - 2vCPUs, 4GiB RAM, 80Go <br/>50€/mo                    | 10€/mo        | <b>94€/mo</b>    |
-| Scaleway       | Kapsule - 2vCPUs, 8GiB RAM<br/>33€/mo            | PostgreSQL - 1vCPU, 2GiB RAM, 10Go <br/>18€/mo                     | 15€/mo        | <b>66€/mo</b>    |
-| Digital Ocean  | Kubernetes - 4vCPUs, 8GiB RAM<br/>48$/mo         | PostgreSQL - 1vCPU, 1GiB RAM, 10 Go <br/>15$/mo                    | 12$/mo        | <b>75$/mo</b>    |
-| Civo Cloud     | Kubernetes - 4vCPUs, 8GiB RAM<br/>43$/mo         | PostgreSQL - 1vCPU, 2GiB RAM, 20Go <br/>22$/mo                     | 11$/mo        | <b>76$/mo</b>    |
 | Exoscale       | SKS starter - 4vCPUs, 8GiB RAM<br/>68€/mo        | Hobbyist PostgreSQL - 1vCPU, 2GiB RAM, 8Go <br/>42€/mo             | 25€/mo        | <b>135€/mo</b>   |
+| OVHCloud       | Managed Kubernetes - 2vCPUs, 8GiB RAM<br/>34€/mo | PostgreSQL - 2vCPUs, 4GiB RAM, 80Go <br/>50€/mo                    | 10€/mo        | <b>94€/mo</b>    |
+| Civo Cloud     | Kubernetes - 4vCPUs, 8GiB RAM<br/>43$/mo         | PostgreSQL - 1vCPU, 2GiB RAM, 20Go <br/>22$/mo                     | 11$/mo        | <b>76$/mo</b>    |
+| Digital Ocean  | Kubernetes - 4vCPUs, 8GiB RAM<br/>48$/mo         | PostgreSQL - 1vCPU, 1GiB RAM, 10 Go <br/>15$/mo                    | 12$/mo        | <b>75$/mo</b>    |
+| Scaleway       | Kapsule - 2vCPUs, 8GiB RAM<br/>33€/mo            | PostgreSQL - 1vCPU, 2GiB RAM, 10Go <br/>18€/mo                     | 15€/mo        | <b>66€/mo</b>    |
 
 ## Limits
 
