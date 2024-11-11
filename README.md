@@ -52,8 +52,8 @@ load balancers and databases. Here is the infrastructure template used for the c
 This comparison is limited and the infrastructure template used for the comparison is not suitable for heavy workloads 
 or production purposes. It's just a reference to compare the costs between the cloud providers.
 
-It doesn't take into account all the costs:
-Depending on the cloud provider and the offers, you may have additional costs like:
+It doesn't take into account all the costs. Depending on the cloud provider and the offers, you may have additional 
+costs like:
 - Container registry
 - Network 
 - Storage
