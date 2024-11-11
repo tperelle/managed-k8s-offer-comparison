@@ -64,3 +64,11 @@ The infrastructure used for comparison is a minimal set of requirements:
 
 It may be possible to optimize the costs by reducing the time the resources are running, or using reserved instances 
 when available.
+
+## Conclusion
+
+We only compare costs, but not all cloud providers are equal. Some have much more extensive service catalogs than others,
+some kubernetes services are more stable/reliable than others, the tools to interact are also really important to 
+ensure a good developer experience (yes, infrastructure as code is mandatory!). 
+
+So, the cheaper is not always the better, you need to test the services and see which one fits better for your needs.
