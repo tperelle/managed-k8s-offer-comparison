@@ -72,3 +72,6 @@ some kubernetes services are more stable/reliable than others, the tools to inte
 ensure a good developer experience (yes, infrastructure as code is mandatory!). 
 
 So, the cheaper is not always the better, you need to test the services and see which one fits better for your needs.
+
+For those who don't need an entire cluster, and would like to have managed namespaces, you can also take a look at the 
+[BlackSwift solution](https://www.blackswift.fr/kontainers/).
